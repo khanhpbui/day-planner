@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-![Alt text](/assets/images/Screenshot.png "Day Planner")
+![Alt text](./assets/Images/Screenshot.png "Day Planner")
 
 Link: 
 

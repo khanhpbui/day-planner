@@ -15,7 +15,7 @@ N/A
 
 ![Alt text](./assets/Images/Screenshot.png "Day Planner")
 
-Link: 
+Link: https://khanhpbui.github.io/day-planner/
 
 Once the page is accessed, the user will be presented with the current date on the top.
 On the bottom, the user will be presented with the timeblocks, space to add notes, and save buttons to save the notes.

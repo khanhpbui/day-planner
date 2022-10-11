@@ -1,6 +1,6 @@
 var today = moment();
 var divContainerEl = $('.container');
-var currentTime = moment().format('H');
+var currentTime = parseInt(moment().format('H'));
 var storedNotes = [];
 
 var dayPlan = [
